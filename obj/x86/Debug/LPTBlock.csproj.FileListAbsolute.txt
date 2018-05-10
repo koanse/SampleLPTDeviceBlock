@@ -1,0 +1,45 @@
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\bin\Debug\LPTBlock.exe
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\bin\Debug\LPTBlock.pdb
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\LPTBlock.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\LPTBlock.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\LPTBlock.exe
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTBlock\obj\x86\Debug\LPTBlock.pdb
+J:\LPTBlock\obj\x86\Debug\LPTBlock.exe
+J:\LPTBlock\obj\x86\Debug\LPTBlock.pdb
+J:\LPTBlock\bin\Debug\LPTBlock.exe
+J:\LPTBlock\bin\Debug\LPTBlock.pdb
+J:\LPTBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\LPTBlock\obj\x86\Debug\LPTBlock.Form1.resources
+J:\LPTBlock\obj\x86\Debug\LPTBlock.Properties.Resources.resources
+J:\LPTBlock\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\LPTBlock\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LPTBlock\obj\x86\Debug\LPTBlock.exe
+G:\LPTBlock\obj\x86\Debug\LPTBlock.pdb
+G:\LPTBlock\bin\Debug\LPTBlock.exe.config
+G:\LPTBlock\bin\Debug\LPTBlock.exe
+G:\LPTBlock\bin\Debug\LPTBlock.pdb
+G:\LPTBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LPTBlock\obj\x86\Debug\LPTBlock.Form1.resources
+G:\LPTBlock\obj\x86\Debug\LPTBlock.Properties.Resources.resources
+G:\LPTBlock\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LPTBlock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\LPTBlock\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LPTBlock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Антон\Desktop\LPTBlock\bin\Debug\LPTBlock.exe.config
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\LPTBlock.exe
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\LPTBlock.pdb
+C:\Users\Антон\Desktop\LPTBlock\bin\Debug\LPTBlock.exe
+C:\Users\Антон\Desktop\LPTBlock\bin\Debug\LPTBlock.pdb
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\LPTBlock.Form1.resources
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\LPTBlock.Properties.Resources.resources
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Антон\Desktop\LPTBlock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTBlock\bin\Debug\LPTBlock.exe.config
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTBlock\obj\x86\Debug\LPTBlock.exe
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTBlock\obj\x86\Debug\LPTBlock.pdb
